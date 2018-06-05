@@ -2,7 +2,7 @@
 <!-- [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding) -->
 
 #### _Teeny Tiny Sass Practice_
-_UI - Week 3: Responsive Design and Preprocessors
+_UI - Week 3: Responsive Design and Preprocessors_
 
 ### <span style="color: coral">Dawn Mott</span> :sunrise_over_mountains:
 _June 5th, 2018_
