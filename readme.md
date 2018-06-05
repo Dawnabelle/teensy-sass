@@ -1,21 +1,21 @@
 <!-- Twitter icon from https://github.com/carlsednaoui/gitsocial -->
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-## <span style="color: turquoise">Share Space</span>
+<!-- [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding) -->
 
 #### _Teeny Tiny Sass Practice_
 _UI - Week 3: Responsive Design and Preprocessors
 
 ### <span style="color: coral">Dawn Mott</span> :sunrise_over_mountains:
-_June 5st, 2018_
+_June 5th, 2018_
 
 ### Description
-_This app is to practice Sass_ <br>
+_This app is to practice Sass_
 
 ### Specs
 
 
 ### Setup/Installation Requirements
-_Clone this repository for readme info_
+_Clone this repository_
+_Open index.html in browser_
 
 
 ### Known Bugs
